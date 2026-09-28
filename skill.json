@@ -1,0 +1,9 @@
+{
+  "name": "genpark-bond-convexity-modified-duration-calculator-skill",
+  "version": "1.0.0",
+  "description": "Fixed-income bond pricing engine computing cash flow present values, Macaulay duration, modified duration, and price convexity.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
